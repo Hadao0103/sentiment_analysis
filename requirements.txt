@@ -1,0 +1,26 @@
+streamlit
+pandas
+numpy
+datetime
+matplotlib
+scipy
+# shap
+seaborn
+# sklearn
+scikit-learn
+# pmdarima
+# arch
+# tslearn
+statsmodels
+# wheel   ##==0.24.0##
+import-ipynb
+ipynb
+streamlit-aggrid
+wordcloud
+pyvi
+underthesea
+underthesea
+emoji
+demoji
+sklearn
+tensorflow
